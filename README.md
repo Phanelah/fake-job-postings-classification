@@ -102,8 +102,7 @@ This model can help:
 
 ## Author
 
-**Aluoch Phanela**  
-[Your GitHub Profile]  
+**Aluoch Phanela**    
 Presented as part of the final phase 3 project at **Moringa School**
 
 
