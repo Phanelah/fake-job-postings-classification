@@ -27,7 +27,7 @@ Fake job listings are a growing concern on job platforms, wasting time and expos
 ---
 
 ## Project Structure
-
+```
 fake-job-detection-project/
 │
 ├── README.md
@@ -46,7 +46,7 @@ fake-job-detection-project/
 ├── roc_curve.png
 └── feature_importance.png
 
-
+```
 ---
 
 ## Modeling Approach
